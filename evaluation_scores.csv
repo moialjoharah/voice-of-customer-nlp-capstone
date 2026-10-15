@@ -1,0 +1,4 @@
+model,accuracy,macro_f1,seconds
+TF-IDF Logistic Regression,0.9,0.900,0.01
+Pretrained Transformer,0.82,0.816,15.74
+Frozen Embeddings + Linear Head,0.92,0.920,5.17
